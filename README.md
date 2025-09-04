@@ -68,7 +68,7 @@ Growth strategies should balance **revenue expansion** with **margin optimizatio
 This README currently documents **Page 1: Performance Overview**.  
 Upcoming sections will include:  
 - **Page 2:** Production & Inventory Analytics  
-- **Page 3:** Forecast vs. Actuals & Demand Planning Insights
+- **Page 3:** Strategic & Decision Support
 ---
 ## 📃 Page 2: Profitability & Operations Analysis
 ## 🔍 Key Features
