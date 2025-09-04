@@ -64,7 +64,6 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 
 📌 **Business Implication:**  
 Growth strategies should balance **revenue expansion** with **margin optimization** — focusing only on sales volume risks profitability erosion.
----
 ## 🚀 Next Steps  
 This README currently documents **Page 1: Performance Overview**.  
 Upcoming sections will include:  
