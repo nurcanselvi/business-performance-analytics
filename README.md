@@ -19,7 +19,7 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 > 💡 **Insight:**  
 > While a **26.93% profit margin** may seem reasonable, profitability **varies significantly** across segments and customers.  
 > Understanding **where profit comes from** is critical for optimizing growth strategies.
-##📌 **Business Implication:**
+## 📌 **Business Implication:**
 > The overall 26.93% profit margin is a positive sign, but it's not the full story. True strategic growth requires moving beyond this high-level view. The business must **analyze profitability by segment and customer** to identify where profit is actually being generated. This approach enables targeted strategies that focus on **margin optimization**, rather than just general revenue expansion.
 ---
 ### **2. Customer Segment Contribution** *(Pie Chart)*
@@ -30,50 +30,41 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 > While the overall revenue distribution across segments appears balanced, a deeper look reveals significant and volatile monthly fluctuations within each segment's performance. This lack of consistency poses a strategic challenge for supply chain management.
 > - **Unpredictable Performance:** All segments show major month-over-month swings. For example, the **SMB** segment's revenue spiked from ₺22.9M in December 2024 to a record high of ₺51.4M in January 2025. Such drastic changes can make future demand forecasting and resource planning highly difficult.
 > - **Supply Chain Implications:** These sharp fluctuations suggest potential misalignments between sales and operational planning (S&OP). Revenue spikes could lead to inventory shortages or operational bottlenecks, while sudden drops might result in idle capacity.
-##📌 **Business Implication:**
+## 📌 **Business Implication:**
 > It is critical to move beyond the high-level revenue balance and **investigate the root causes** of this monthly volatility. Understanding the specific factors driving these dramatic swings is essential for **creating a more resilient and predictable supply chain**. The focus should be on stabilizing month-to-month performance to optimize operational efficiency and minimize risk.
 ---  
-### **3. Customer-Level Profitability Analysis** *(Matrix Table)*  
+### **3. Customer-Level Profitability Analysis** *(Matrix Table)*
 
-| Customer   | Total Revenue | AOV          | Profit Margin % | Total Orders |
-|-----------|--------------|--------------|-----------------|--------------|
+| Customer | Total Revenue | AOV | Profit Margin % | Total Orders |
+| :--- | :--- | :--- | :--- | :--- |
 | **CUST-0202** | ₺22.26M | ₺3.18M | **21.79%** | 7 |
 | **CUST-0191** | ₺14.90M | ₺2.98M | **34.10%** | 5 |
 
-> 💡 **Insight 1:**  
-> **High revenue ≠ high profitability** → **CUST-0202** has the **highest revenue** but only a **21.79% profit margin**, while **CUST-0191** achieves **34.10%**.  
-> Possible reasons:  
-> • Volume discounts for top customers  
-> • Higher servicing or logistics costs  
-> • Different pricing strategies  
-
-> 💡 **Insight 2:**  
-> **AOV vs. Order Frequency** → CUST-0202 places **more orders** and slightly higher **AOV**, yet profitability is lower.  
-> This highlights that **sales volume alone doesn’t guarantee margin growth**.
+> 💡 **Insight:**
+> This table challenges the assumption that high revenue equals high profitability. While **CUST-0202** is the highest revenue generator, its profit margin of **21.79%** is significantly lower than that of **CUST-0191**, which achieves **34.10%** on a smaller sales volume.
+> **CUST-0202's** lower margin, despite having a high AOV and more frequent orders, is a clear indicator that its high volume may be tied to **increased operational costs** associated with order fulfillment, such as **packaging, shipping, and handling**. This suggests that as sales volume rises for this customer, the operational costs erode the profit margin.
+> Conversely, **CUST-0191's** high margin, on fewer orders, highlights its efficiency and the potential for a more profitable customer profile. This customer may require fewer resources or purchase a more lucrative mix of products.
+## 📌 **Business Implication:**
+> True business health is measured by **profitable growth, not just revenue expansion**. This analysis highlights the need to shift from a broad, volume-based strategy to a more granular approach that focuses on **margin optimization at the customer level**. By identifying and replicating the success factors of high-margin customers like CUST-0191, the business can enhance overall profitability without sacrificing growth.
 ---
-### **4. Revenue & Profit Margin Trends Over Time** *(Clustered Column + Line Chart)*  
+### **4. Revenue vs. Profitability Trends** *(Line Chart/Table)*
 
-| Month      | Total Revenue | Profit Margin % |
-|-----------|--------------|------------------|
-| **Jan 2024** | ₺105.24M | **33.14%** |
-| **Jun 2025** | ₺79.86M  | **40.79%** |
-| **Aug 2025** | ₺45.31M  | **29.61%** |
+| Month | Total Revenue | Profit Margin % |
+| :--- | :--- | :--- |
+| **Dec 2024** | ₺103.27M | **24.74%** |
+| **Apr 2025** | ₺54.46M | **36.18%** |
+| **Jun 2025** | ₺79.86M | **40.79%** |
+| **Jul 2025** | ₺79.01M | **22.63%** |
 
-> 💡 **Insight:**  
-> The assumption that “**higher revenue = higher profit margin**” **does not always hold true**.  
-> For example, **Jun 2025** shows a **40.79% profit margin** despite being **mid-range in revenue**.  
-> Likely reasons:  
-> • A shift in **product mix** toward higher-margin SKUs  
-> • Lower discounting & promotional spending  
-> • Improved production efficiency that month  
+> 💡 **Insight:**
+> This table demonstrates the complex and often unpredictable relationship between revenue and profitability. A look at recent data reveals three critical scenarios:
+> **1. High Revenue, Low Margin (December 2024):** This month generated high revenue but had a low profit margin. This may indicate a period of aggressive, high-volume sales driven by promotions or end-of-year discounts, which increased top-line revenue but eroded profitability.
+> **2. Low Revenue, High Margin (April 2025):** In contrast, April 2025 achieved one of the highest profit margins despite having a low revenue month. This suggests that sales during this period were highly strategic, likely focusing on high-margin items or a significant reduction in operational costs.
+> **3. The Revenue-Profitability Gap (June vs. July 2025):** The most striking insight comes from comparing these two months. With nearly identical revenue totals (approx. ₺79M), **June 2025** secured an exceptional **40.79%** profit margin, while **July 2025** dropped to a mere **22.63%**. This dramatic difference in profitability, despite a similar revenue, highlights a major inconsistency. It could be due to a sudden shift in sales mix towards low-margin products, or a significant increase in operational expenses, such as logistics or returns, in July.
+## 📌 **Business Implication:**
+> True business health is not measured by revenue alone. These comparisons prove that focusing solely on sales volume can obscure critical profitability issues and operational inefficiencies. A robust strategy must prioritize **margin optimization** and seek to understand the underlying factors behind monthly fluctuations to ensure consistent, sustainable growth.
 
-##📌 **Business Implication:**  
-Growth strategies should balance **revenue expansion** with **margin optimization** — focusing only on sales volume risks profitability erosion.
-## 🚀 Next Steps  
-This README currently documents **Page 1: Performance Overview**.  
-Upcoming sections will include:  
-- **Page 2:** Production & Inventory Analytics  
-- **Page 3:** Strategic & Decision Support
+
 ---
 ## 📃 Page 2: Profitability & Operations Analysis
 ## 🔍 Key Features
