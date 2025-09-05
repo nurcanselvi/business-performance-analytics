@@ -19,11 +19,11 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 
 ### **1. Overall KPI Snapshot**  
 **Jan 2024 – Aug 2025** totals:  
-- **Total Revenue:** ₺1.612B  
-- **Total Cost:** ₺1.178B  
-- **Total Profit:** ₺434M  
-- **Profit Margin:** **26.93%**  
-- **Total Orders:** **1,000**
+- **Total Revenue:** ₺1.612.450.363 
+- **Total Cost:** ₺1.178.251.569  
+- **Total Profit:** ₺434.198.794 
+- **Profit Margin:** 26.93%  
+- **Total Orders:** 1,000
   
 > 💡 **Insight:**  
 > While a **26.93% profit margin** may seem reasonable, profitability **varies significantly** across segments and customers.  
