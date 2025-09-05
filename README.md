@@ -60,10 +60,9 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 > This table demonstrates the complex and often unpredictable relationship between revenue and profitability. A look at recent data reveals three critical scenarios:
 > **1. High Revenue, Low Margin (December 2024):** This month generated high revenue but had a low profit margin. This may indicate a period of aggressive, high-volume sales driven by promotions or end-of-year discounts, which increased top-line revenue but eroded profitability.
 > **2. Low Revenue, High Margin (April 2025):** In contrast, April 2025 achieved one of the highest profit margins despite having a low revenue month. This suggests that sales during this period were highly strategic, likely focusing on high-margin items or a significant reduction in operational costs.
-> **3. The Revenue-Profitability Gap (June vs. July 2025):** The most striking insight comes from comparing these two months. With nearly identical revenue totals (approx. ₺79M), **June 2025** secured an exceptional **40.79%** profit margin, while **July 2025** dropped to a mere **22.63%**. This dramatic difference in profitability, despite a similar revenue, highlights a major inconsistency. It could be due to a sudden shift in sales mix towards low-margin products, or a significant increase in operational expenses, such as logistics or returns, in July.
+> **3. The Revenue-Profitability Gap (June vs. July 2025):** The most critical insight is the dramatic gap between June 2025 and July 2025; despite nearly identical revenues, their profit margins have a massive 18% difference. This highlights a significant inconsistency in profitability drivers.
 ## 📌 **Business Implication:**
-> True business health is not measured by revenue alone. These comparisons prove that focusing solely on sales volume can obscure critical profitability issues and operational inefficiencies. A robust strategy must prioritize **margin optimization** and seek to understand the underlying factors behind monthly fluctuations to ensure consistent, sustainable growth.
-
+> True business health is not measured by revenue alone. These trends show that a robust strategy must prioritize **margin optimization** and **understanding the underlying factors** behind monthly volatility to ensure consistent, sustainable growth.
 
 ---
 ## 📃 Page 2: Profitability & Operations Analysis
@@ -76,27 +75,19 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 ---
 ## 📈 Insights & Trend Storytelling
 ### **1. Overall Performance Snapshot (MoM)**
-*(Based on data from Jan 2024 to Aug 2025)*
-| Metric | Aug 2025 | MoM Change |
-|---|---|---|
-| **Revenue** | ₺45.3M | **▼ 42.6%** |
-| **Total Orders** | 23 | **▼ 56.6%** |
-| **Profit Margin %** | 29.61% | **▲ 7.0%** |
-
 > 💡 **Insight:**
-> **Revenue** and **Total Orders** experienced a significant sharp decline in August 2025, falling by over **40%** from the previous month. This indicates a potential major slowdown in sales. However, despite this drop, the **profit margin surprisingly increased by 7.0%**.
-
-> **Business Implication:**
-> This divergence suggests that the remaining sales in August likely came from **high-margin products or customer segments**, offsetting the overall volume loss. The business should investigate this shift: was it due to a strategic focus on more profitable SKUs, or was there an unexpected drop-off in low-margin, high-volume sales?
+> This dashboard highlights significant complexities in revenue and profitability across regions. The data proves that a one-size-fits-all strategy is not effective, and each region has its own unique market dynamics and operational challenges.
+> - **Aegean's Exceptional Profitability Spike (April 2025):** The Aegean region showed remarkable performance in April, with revenue increasing by **153.9%** from the previous month, while its profit margin surged by **98.4%**. This suggests that revenue growth was not just from volume but was coupled with successful strategic sales of high-margin products or exceptional cost management.
+> - **Central Anatolia's Inconsistent Profitability:** Central Anatolia demonstrated resilience in April 2025 by increasing its profit margin despite a drop in revenue. However, a contrasting trend in **July 2025** shows a revenue increase of 21.1% accompanied by a significant **50.1% drop** in profit margin. This highlights that revenue growth does not always correlate with profitability and can be achieved at the cost of margin erosion.
+> - **The Dramatic Profitability Gap (August 2025):** A critical insight emerges from comparing the Aegean and Mediterranean regions in August 2025. Despite both regions experiencing a sharp revenue drop, the Aegean’s profit margin **increased by 29.8% to 67.88%**, while the Mediterranean’s plummeted by 4.9% to a mere 5.71%. This massive disparity underscores a fundamental difference in operational efficiency and cost management between the two regions.
+## 📌 **Business Implication:**
+> These regional performance disparities call for a shift from broad strategies to localized, data-driven approaches. The business must analyze the specific drivers of success in high-margin regions like the Aegean to identify best practices that can be applied elsewhere, while simultaneously investigating the operational inefficiencies in underperforming regions to stabilize their profitability.
 ---
 ### **2. Profitability by Segment & Category** *(Clustered Column Chart)*
-
 > 💡 **Insight 1: Significant Volatility**
 > The **Profit Margin %** chart reveals **extreme volatility** across segments and categories. For example, in **Mar 2024**, Home/Enterprise had a **-223.31%** margin, while Electronics/SMB saw a healthy **36.94%**. Similarly, in **Nov 2024**, Electronics/SMB achieved a massive **59.82%** margin.
-
 > **Business Implication:**
 > This extreme fluctuation points to potential issues in **pricing strategy, cost management, or production efficiency**. Negative margins, especially large ones, indicate a critical need for root-cause analysis to address specific segments and categories that are actively losing money.
-
 > 💡 **Insight 2: Profitability vs. Revenue**
 > The data shows that **high revenue does not guarantee high profitability**. For instance, while some segments consistently perform well, like **Electronics/Enterprise**, others like **Home/Enterprise** have months with significantly negative margins despite generating revenue.
 
