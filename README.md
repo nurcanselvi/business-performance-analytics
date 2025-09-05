@@ -105,7 +105,7 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 
 > 💡 **Insight:**
 > The data reveals **significant instability in profit margins** across multiple segments, especially within **Electronics SMB and Home Distributor**.
-> - **Potantial Causes:**
+> ❗ **Potantial Causes:**
 > - **Sudden pricing adjustments** and **discounting strategies** appear to have triggered **extreme short-term fluctuations.**
 > - **Possible inventory misalignments** — either excess stock leading to markdowns or shortages driving up prices.
 > - Demand volatility in certain customer segments, particularly **SMBs**, may indicate inconsistent forecasting accuracy.
