@@ -70,9 +70,9 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 
 > 💡 **Insight:**
 > This table demonstrates the complex and often unpredictable relationship between revenue and profitability. A look at recent data reveals three critical scenarios:
-> **1. High Revenue, Low Margin (December 2024):** This month generated high revenue but had a low profit margin. This may indicate a period of aggressive, high-volume sales driven by promotions or end-of-year discounts, which increased top-line revenue but eroded profitability.
-> **2. Low Revenue, High Margin (April 2025):** In contrast, April 2025 achieved one of the highest profit margins despite having a low revenue month. This suggests that sales during this period were highly strategic, likely focusing on high-margin items or a significant reduction in operational costs.
-> **3. The Revenue-Profitability Gap (June vs. July 2025):** The most critical insight is the dramatic gap between June 2025 and July 2025; despite nearly identical revenues, their profit margins have a massive 18% difference. This highlights a significant inconsistency in profitability drivers.
+> - **1. High Revenue, Low Margin (December 2024):** This month generated high revenue but had a low profit margin. This may indicate a period of aggressive, high-volume sales driven by promotions or end-of-year discounts, which increased top-line revenue but eroded profitability.
+> - **2. Low Revenue, High Margin (April 2025):** In contrast, April 2025 achieved one of the highest profit margins despite having a low revenue month. This suggests that sales during this period were highly strategic, likely focusing on high-margin items or a significant reduction in operational costs.
+> - **3. The Revenue-Profitability Gap (June vs. July 2025):** The most critical insight is the dramatic gap between June 2025 and July 2025; despite nearly identical revenues, their profit margins have a massive 18% difference. This highlights a significant inconsistency in profitability drivers.
 
 ## 📌 **Business Implication:**
 > True business health is not measured by revenue alone. These trends show that a robust strategy must prioritize **margin optimization** and **understanding the underlying factors** behind monthly volatility to ensure consistent, sustainable growth.
