@@ -82,9 +82,7 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 
 ## 🔍 Key Features
 - **Revenue & Order Trends** → Analyze **month-over-month (MoM)** changes in Revenue and Total Orders to understand sales performance and demand fluctuations.
-- **Profitability Deep Dive** → Track **Profit Margin %** to identify periods of both high and low profitability, and correlate them with revenue and order trends.
 - **Segment & Category Profitability** → Break down profit margins by **customer segment** and **product category**, revealing which combinations are most profitable.
-- **Fulfillment Performance** → Monitor **Total Orders** and **Late Orders %** to evaluate supply chain efficiency and identify areas for improvement.
 - **Inventory & Workload Analysis** → Assess **Orders in Progress** and **Inventory in Progress** to gauge operational load and potential bottlenecks.
   
 ---
