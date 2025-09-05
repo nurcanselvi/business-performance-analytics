@@ -54,9 +54,7 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 | **CUST-0191** | ₺14.90M | ₺2.98M | **34.10%** | 5 |
 
 > 💡 **Insight:**
-> This table challenges the assumption that high revenue equals high profitability. While **CUST-0202** is the highest revenue generator, its profit margin of **21.79%** is significantly lower than that of **CUST-0191**, which achieves **34.10%** on a smaller sales volume.
-> **CUST-0202's** lower margin, despite having a high AOV and more frequent orders, is a clear indicator that its high volume may be tied to **increased operational costs** associated with order fulfillment, such as **packaging, shipping, and handling**. This suggests that as sales volume rises for this customer, the operational costs erode the profit margin.
-> Conversely, **CUST-0191's** high margin, on fewer orders, highlights its efficiency and the potential for a more profitable customer profile. This customer may require fewer resources or purchase a more lucrative mix of products.
+> High revenue doesn’t necessarily translate into high profitability. While CUST-0202 leads in revenue, its lower profit margin (21.79%) reflects higher operational costs per order. In contrast, CUST-0191 achieves a 34.10% margin on fewer orders, demonstrating greater efficiency and a more profitable customer profile.
 
 ## 📌 **Business Implication:**
 > True business health is measured by **profitable growth, not just revenue expansion**. This analysis highlights the need to shift from a broad, volume-based strategy to a more granular approach that focuses on **margin optimization at the customer level**. By identifying and replicating the success factors of high-margin customers like CUST-0191, the business can enhance overall profitability without sacrificing growth.
