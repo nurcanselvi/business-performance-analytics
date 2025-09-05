@@ -8,7 +8,7 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 - **Customer-Level Profitability Analysis** → Compare customers’ **revenue**, **profit margins**, **average order value**, and **order frequency** to identify growth opportunities.  
 - **Revenue & Profitability Trends** → Visualize **month-by-month changes** in revenue and profit margins to detect underlying business patterns.
 ---
-## 📈 Insights & Trend Storytelling
+## 📈 Initial Insights & Key Takeaways
 ### **1. Overall KPI Snapshot**  
 **Jan 2024 – Aug 2025** totals:  
 - **Total Revenue:** ₺1.612B  
@@ -19,14 +19,19 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 > 💡 **Insight:**  
 > While a **26.93% profit margin** may seem reasonable, profitability **varies significantly** across segments and customers.  
 > Understanding **where profit comes from** is critical for optimizing growth strategies.
+##📌 **Business Implication:**
+> The overall 26.93% profit margin is a positive sign, but it's not the full story. True strategic growth requires moving beyond this high-level view. The business must **analyze profitability by segment and customer** to identify where profit is actually being generated. This approach enables targeted strategies that focus on **margin optimization**, rather than just general revenue expansion.
 ---
-### **2. Customer Segment Contribution** *(Pie Chart)*  
-- **Enterprise:** **35.52%**  
-- **SMB:** **33.81%**  
+### **2. Customer Segment Contribution** *(Pie Chart)*
+- **Enterprise:** **35.52%**
+- **SMB:** **33.81%**
 - **Distributor:** **30.67%**
-> 💡 **Insight:**  
-> Revenue is **evenly distributed** across segments, which **reduces concentration risk**.  
-> However, since no single segment dominates, **profit optimization strategies** must focus on **individual customers** rather than broad segments.
+> 💡 **Insight:**
+> While the overall revenue distribution across segments appears balanced, a deeper look reveals significant and volatile monthly fluctuations within each segment's performance. This lack of consistency poses a strategic challenge for supply chain management.
+> - **Unpredictable Performance:** All segments show major month-over-month swings. For example, the **SMB** segment's revenue spiked from ₺22.9M in December 2024 to a record high of ₺51.4M in January 2025. Such drastic changes can make future demand forecasting and resource planning highly difficult.
+> - **Supply Chain Implications:** These sharp fluctuations suggest potential misalignments between sales and operational planning (S&OP). Revenue spikes could lead to inventory shortages or operational bottlenecks, while sudden drops might result in idle capacity.
+##📌 **Business Implication:**
+> It is critical to move beyond the high-level revenue balance and **investigate the root causes** of this monthly volatility. Understanding the specific factors driving these dramatic swings is essential for **creating a more resilient and predictable supply chain**. The focus should be on stabilizing month-to-month performance to optimize operational efficiency and minimize risk.
 ---  
 ### **3. Customer-Level Profitability Analysis** *(Matrix Table)*  
 
