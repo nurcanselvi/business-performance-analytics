@@ -8,7 +8,7 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 - Excel (Initial data structure design and preparing the fictional dataset)
 - GitHub (Version control and project documentation)
 
-##  Page 1: Performance Overview
+## 📃 Page 1: Performance Overview
 ## 🔍 Key Features  
 - **Comprehensive KPI Tracking** → Monitor **Total Revenue**, **Total Cost**, **Total Profit**, **Profit Margin %**, and **Total Orders** at a glance.  
 - **Customer Segmentation Insights** → Evaluate **Enterprise**, **SMB**, and **Distributor** contributions to total revenue dynamically.  
