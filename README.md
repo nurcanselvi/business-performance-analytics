@@ -131,15 +131,14 @@ Such volatility can **undermine revenue predictability** and **cash flow stabili
 A more integrated Sales & Operations Planning (S&OP) approach, **combined with tighter pricing control** and **improved cost tracking,** is essential to ensure **sustainable profitability.**
 
 ---
-### **3. Segment-wise Total Profit** **(Waterfall Chart)**
-
+### **3. Orders vs Inventory** *line and clustered column chart*
 > 💡 **Insight:**  
-> - **Backlog Exposure:** Months with high monetary value of Inventory in Progress, such as March 2024 (₺16M) and February 2025 (₺16M), indicate **significant capital tied up in unfulfilled orders**.
-> - **Operational Risk:** Periods where the monetary value remains high despite fewer orders, e.g., March 2025 (6 orders, ₺13M), suggest **delays in fulfillment or large-value orders pending**, which could impact customer satisfaction and cash flow.
+> A closer look at orders and inventory reveals **critical operational inconsistencies** that highlight risks in planning and resource allocation.
+> - **Low Orders, High Inventory (Mar 2025):** Only **6 orders** were in progress, yet the **inventory value reached ₺13,023,024**. This indicates that **a few high-value orders were tying up a large portion of inventory**, creating potential cash flow and storage pressures despite low order volume.  
+> - **High Orders, Moderate Inventory (Feb 2025):** In contrast, **11 orders** were in progress, with **₺16,030,267 inventory value**. Here, **inventory scaled more proportionally with order count**, but operational strain is visible due to the **simultaneous spike in both order count and cumulative value**, potentially stressing fulfillment capacity.
 
-## 📌 **Business Implication:**  
-> Monitoring both order count and monetary value of pending orders is essential for **cash flow management, prioritization, and operational planning**.  
-> - **Recommendation:** Introduce **backlog prioritization rules** based on order value and urgency, and **align production/shipping capacity** with monetary exposure to reduce risk.
+## 📌 **Business Implication:**
+These extremes illustrate the importance of **aligning inventory management with both order volume and financial value**. Months with **few but high-value orders** can create unexpected financial exposure, while **months with many orders** require careful coordination to avoid operational bottlenecks. Focusing on these anomalies helps **improve cash flow management, storage efficiency, and fulfillment reliability**.
 
 ---
 ## 🧠 Analytical Approach
