@@ -90,13 +90,25 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 
 ### **1. Overall Performance Snapshot (MoM)**
 > 💡 **Insight:**
-> This dashboard highlights significant complexities in revenue and profitability across regions. The data proves that a one-size-fits-all strategy is not effective, and each region has its own unique market dynamics and operational challenges.
-> - **Aegean's Exceptional Profitability Spike (April 2025):** The Aegean region showed remarkable performance in April, with revenue increasing by **153.9%** from the previous month, while its profit margin surged by **98.4%**. This suggests that revenue growth was not just from volume but was coupled with successful strategic sales of high-margin products or exceptional cost management.
-> - **Central Anatolia's Inconsistent Profitability:** Central Anatolia demonstrated resilience in April 2025 by increasing its profit margin despite a drop in revenue. However, a contrasting trend in **July 2025** shows a revenue increase of 21.1% accompanied by a significant **50.1% drop** in profit margin. This highlights that revenue growth does not always correlate with profitability and can be achieved at the cost of margin erosion.
-> - **The Dramatic Profitability Gap (August 2025):** A critical insight emerges from comparing the Aegean and Mediterranean regions in August 2025. Despite both regions experiencing a sharp revenue drop, the Aegean’s profit margin **increased by 29.8% to 67.88%**, while the Mediterranean’s plummeted by 4.9% to a mere 5.71%. This massive disparity underscores a fundamental difference in operational efficiency and cost management between the two regions.
+> The Marmara region demonstrates **severe profit margin instability** from **late 2024 through 2025**, indicating potential challenges in **demand planning, pricing strategy, and cost management**.
+> From **Nov 2024** to **Feb 2025**, revenue remained relatively stable, but profit margins collapsed:  
+> - **Nov 2024 → Feb 2025**: Margins dropped from **34.73%** to **10.82%** (**-68.9% MoM decline**).  
+> - Despite steady revenue, operational efficiency weakened, suggesting **rising production costs** or **aggressive discounting** to drive sales.
+>
+> - **Mar 2025** saw a sharp rebound to **26.12%**, but by **May 2025**, margins plunged to **4.09%** (**-84.3% MoM**).  
+> - Indicates **short-term corrective tactics** rather than sustainable profitability — possibly **temporary promotions** or **bulk sales**.
+>
+> - **Jun 2025**: Margins peaked at **44.55%**, marking the region’s highest profitability since early 2024.  
+> - **Aug 2025**: Margins dropped to **-15.32%**, entering **negative territory** despite moderate revenue declines.  
+> - Suggests **cost overruns**, **excess inventory clearances**, or **pricing misalignments**.
 
 ## 📌 **Business Implication:**
-> These regional performance disparities call for a shift from broad strategies to localized, data-driven approaches. The business must analyze the specific drivers of success in high-margin regions like the Aegean to identify best practices that can be applied elsewhere, while simultaneously investigating the operational inefficiencies in underperforming regions to stabilize their profitability.
+> The Marmara region’s extreme **profit margin volatility** highlights an urgent need for:  
+> - Better **demand forecasting** to align production with market realities.  
+> - Stronger **cost-control mechanisms** to protect margins during revenue fluctuations.  
+> - More **sustainable pricing strategies** to avoid short-term profitability swings.
+>
+Stabilizing profitability will require a **data-driven approach** combining **forecast accuracy**, **cost optimization**, and **strategic pricing alignment**.
 
 ---
 ### **2. Profitability by Segment & Category** *(Clustered Column Chart)*
