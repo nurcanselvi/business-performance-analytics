@@ -1,5 +1,5 @@
 # 📊 Business Performance Analytics
-This repository contains a comprehensive Power BI dashboard for end-to-end business performance analysis. It provides actionable insights into sales, profitability, and operational efficiency by tracking key metrics across multiple departments.
+This Power BI dashboard was built as a learning project to gain hands-on experience with data analysis and visualization. Using fictional data, it provides an opportunity to practice end-to-end business performance analysis by tracking key metrics for sales, profitability, and operational efficiency.
 
 ## 🛒 Tools Used
 - Power BI Desktop (Data visualization, dashboard design, and data modeling)
