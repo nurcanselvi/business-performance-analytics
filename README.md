@@ -92,10 +92,10 @@ This repository contains a comprehensive Power BI dashboard for end-to-end busin
 > 💡 **Insight:**
 > The Marmara region demonstrates **severe profit margin instability** from **late 2024 through 2025**, indicating potential challenges in **demand planning, pricing strategy, and cost management**.
 > From **Nov 2024** to **Feb 2025**, revenue remained relatively stable, but profit margins collapsed:  
-> - **Nov 2024 → Feb 2025**: Margins dropped from **34.73%** to **10.82%** (**-68.9% MoM decline**).  
+> - **Nov 2024 → Feb 2025**: Margins dropped from **34.73%** to **10.82%**.  
 > - Despite steady revenue, operational efficiency weakened, suggesting **rising production costs** or **aggressive discounting** to drive sales.
 >
-> - **Mar 2025** saw a sharp rebound to **26.12%**, but by **May 2025**, margins plunged to **4.09%** (**-84.3% MoM**).  
+> - **Mar 2025** saw a sharp rebound to **26.12%**, but by **May 2025**, margins plunged to **4.09%**.  
 > - Indicates **short-term corrective tactics** rather than sustainable profitability — possibly **temporary promotions** or **bulk sales**.
 >
 > - **Jun 2025**: Margins peaked at **44.55%**, marking the region’s highest profitability since early 2024.  
